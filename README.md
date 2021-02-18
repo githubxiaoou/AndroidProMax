@@ -141,7 +141,7 @@ Android Pro Max you will find out!
 1.2.2 MVP思想精髓与解耦   
 1.2.3 MVP思想实现项目基础框架搭建   
 1.2.4 [**更节省的设计模式之MVVM实现数据双向绑定**](https://blog.csdn.net/u014158743/article/details/105462190)   
-1.2.5 [**MVVM与DataBinding**](https://blog.csdn.net/u014158743/article/details/105462190) 
+1.2.5 [**MVVM与DataBinding**](https://blog.csdn.net/u014158743/article/details/105472418) 
 ### 第三节 无死角分析Android系统源码
 1.3.1.1 Handler Message源码分析及手写实现01  
 1.3.1.2 Handler Message源码分析及手写实现02  
