@@ -14,7 +14,7 @@ Android Pro Max you will find out!
 1.2.2 [Paint-滤镜和XFERMODE](https://blog.csdn.net/u014158743/article/details/113762288)   
 1.2.3 [Canvas的常用api简介——变换，状态保存，离屏缓冲](https://blog.csdn.net/u014158743/article/details/113781831)    
 1.2.4 [Canvas实际案例操作——爆炸粒子，渐入动画效果](https://blog.csdn.net/u014158743/article/details/113782835)   
-1.2.5 贝塞尔曲线与计算规则   
+1.2.5 [Android未读消息拖动气泡示例](https://blog.csdn.net/u014158743/article/details/113850551)   
 1.2.6 基于PathMeasure源码分析path测量问题   
 ### 第三节 事件传递机制
 1.3.1 事件分发机制详解   
