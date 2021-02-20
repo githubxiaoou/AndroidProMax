@@ -21,7 +21,6 @@ Android Pro Max you will find out!
 1.3.2 [事件分发机制详解](https://blog.csdn.net/u014158743/article/details/113868668)
 ### 第四节 属性动画
 1.4.1 [Android仿小红书启动页（老版）平行动画](https://blog.csdn.net/u014158743/article/details/113887260)
-   
 1.4.2 网易云音乐用到的高级绘制与动画
 ## 第二章 屏幕适配
 ### 第一节 屏幕适配解决方案
