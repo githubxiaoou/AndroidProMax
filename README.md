@@ -1,6 +1,6 @@
 # AndroidProMax
 Android Pro Max you will find out!
-
+<a id="top" ></a>
 ---
 
 # @[UI篇](https://blog.csdn.net/u014158743/article/details/113743396)（整理中）
@@ -14,21 +14,21 @@ Android Pro Max you will find out!
 1.2.2 [Paint-滤镜和XFERMODE](https://blog.csdn.net/u014158743/article/details/113762288)   
 1.2.3 [Canvas的常用api简介——变换，状态保存，离屏缓冲](https://blog.csdn.net/u014158743/article/details/113781831)    
 1.2.4 [Canvas实际案例操作——爆炸粒子，渐入动画效果](https://blog.csdn.net/u014158743/article/details/113782835)   
-1.2.5 贝塞尔曲线与计算规则   
-1.2.6 基于PathMeasure源码分析path测量问题   
+1.2.5 [Android未读消息拖动气泡示例](https://blog.csdn.net/u014158743/article/details/113850551)（推荐）   
+1.2.6 [PathMeasure的介绍和使用](https://blog.csdn.net/u014158743/article/details/113859322)   
 ### 第三节 事件传递机制
-1.3.1 事件分发机制详解   
-1.3.2 手写模拟事件分发
+1.3.1 [事件分发机制原理](https://blog.csdn.net/u014158743/article/details/113868668)   
+1.3.2 [事件分发机制详解](https://blog.csdn.net/u014158743/article/details/113868668)
 ### 第四节 属性动画
-1.4.1 源码层分析、自定义动画框架   
-1.4.2 详解网易云音乐屏幕适配
+1.4.1 [Android仿小红书启动页（老版）平行动画](https://blog.csdn.net/u014158743/article/details/113887260)   
+1.4.2 网易云音乐用到的高级绘制与动画
 ## 第二章 屏幕适配
 ### 第一节 屏幕适配解决方案
 2.1.1 自定义像素适配   
 2.1.2 手写百分比布局适配   
 2.1.3 修改系统density, densityDpi适配   
 2.1.4 刘海屏适配   
-2.1.5 网易云音乐用到的高级绘制与动画
+2.1.5 详解网易云音乐屏幕适配
 ## 第三章 项目实战
 ### 第一节 Material Design
 3.1.1 Material Design交互设计   
@@ -283,7 +283,7 @@ Android Pro Max you will find out!
 # @[性能优化篇](https://blog.csdn.net/u014158743/article/details/113843013)（整理中）
 ## 第一章 多维度分析性能优化
 1.1.1 app启动  
-1.1.2 [**黑白屏解决方案**](https://blog.csdn.net/u014158743/article/details/112429138)   
+1.1.2 [**黑白屏解决方案**](https://blog.csdn.net/u014158743/article/details/112429138)（推荐）  
 1.1.3 代码优化  
 1.2.1 Ul渲染流程及优化  
 1.3.1 Java虚拟机/垃圾回收机制/内存泄漏  
@@ -333,14 +333,16 @@ Android Pro Max you will find out!
 ## 第五章 flutter实战
 5.1.1 Flutter实战(上)  
 5.1.2 Flutter实战(下)
-# 商业化项目（整理中）
+# @商业化项目及优秀资源收集（整理中）
 1.1.1 网易云音乐高级U实战分享  
 1.1.2 网易云信IM的前世今生  
 1.1.3 网易易盾Android安全分享  
 1.1.4 中国大学MOOC组件化编程实践  
 1.1.5 网易云信Android实时音视频实践分享  
-1.1.6 android字节码插桩
+1.1.6 android字节码插桩   
+1.1.7 [优秀资源收集](https://blog.csdn.net/u014158743/article/details/113885422)（推荐）
 
+[回到顶部↑](#top)
 
 ---
 本文正文部分主要归纳自《网易微专业》
