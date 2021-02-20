@@ -14,7 +14,7 @@ Android Pro Max you will find out!
 1.2.2 [Paint-滤镜和XFERMODE](https://blog.csdn.net/u014158743/article/details/113762288)   
 1.2.3 [Canvas的常用api简介——变换，状态保存，离屏缓冲](https://blog.csdn.net/u014158743/article/details/113781831)    
 1.2.4 [Canvas实际案例操作——爆炸粒子，渐入动画效果](https://blog.csdn.net/u014158743/article/details/113782835)   
-1.2.5 [Android未读消息拖动气泡示例](https://blog.csdn.net/u014158743/article/details/113850551)   
+1.2.5 [Android未读消息拖动气泡示例](https://blog.csdn.net/u014158743/article/details/113850551)（推荐）   
 1.2.6 [PathMeasure的介绍和使用](https://blog.csdn.net/u014158743/article/details/113859322)   
 ### 第三节 事件传递机制
 1.3.1 [事件分发机制原理](https://blog.csdn.net/u014158743/article/details/113868668)   
@@ -283,7 +283,7 @@ Android Pro Max you will find out!
 # @[性能优化篇](https://blog.csdn.net/u014158743/article/details/113843013)（整理中）
 ## 第一章 多维度分析性能优化
 1.1.1 app启动  
-1.1.2 [**黑白屏解决方案**](https://blog.csdn.net/u014158743/article/details/112429138)   
+1.1.2 [**黑白屏解决方案**](https://blog.csdn.net/u014158743/article/details/112429138)（推荐）  
 1.1.3 代码优化  
 1.2.1 Ul渲染流程及优化  
 1.3.1 Java虚拟机/垃圾回收机制/内存泄漏  
