@@ -1,6 +1,6 @@
 # AndroidProMax
 Android Pro Max you will find out!
-
+<a id="top" ></a>
 ---
 
 # @[UI篇](https://blog.csdn.net/u014158743/article/details/113743396)（整理中）
@@ -333,14 +333,16 @@ Android Pro Max you will find out!
 ## 第五章 flutter实战
 5.1.1 Flutter实战(上)  
 5.1.2 Flutter实战(下)
-# 商业化项目（整理中）
+# @商业化项目及优秀资源收集（整理中）
 1.1.1 网易云音乐高级U实战分享  
 1.1.2 网易云信IM的前世今生  
 1.1.3 网易易盾Android安全分享  
 1.1.4 中国大学MOOC组件化编程实践  
 1.1.5 网易云信Android实时音视频实践分享  
-1.1.6 android字节码插桩
+1.1.6 android字节码插桩   
+1.1.7 [优秀资源收集](https://blog.csdn.net/u014158743/article/details/113885422)（推荐）
 
+[回到顶部↑](#top)
 
 ---
 本文正文部分主要归纳自《网易微专业》
