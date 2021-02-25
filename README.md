@@ -342,7 +342,8 @@ Android Pro Max you will find out!
 1.1.4 中国大学MOOC组件化编程实践  
 1.1.5 网易云信Android实时音视频实践分享  
 1.1.6 android字节码插桩   
-1.1.7 [优秀资源收集](https://blog.csdn.net/u014158743/article/details/113885422)（推荐）
+1.1.7 [优秀资源收集](https://blog.csdn.net/u014158743/article/details/113885422)（推荐）   
+1.1.8 [一个基于融云IM实现的及时通讯项目——Coco](https://github.com/githubxiaoou/Coco)
 
 [回到顶部↑](#top)
 
