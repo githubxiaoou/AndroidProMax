@@ -23,11 +23,11 @@ Android Pro Max you will find out!
 1.4.1 [Android仿小红书启动页（老版）平行动画](https://blog.csdn.net/u014158743/article/details/113887260)   
 ## 第二章 屏幕适配
 ### 第一节 屏幕适配解决方案
-2.1.1 自定义像素适配   
-2.1.2 手写百分比布局适配   
-2.1.3 修改系统density, densityDpi适配   
-2.1.4 刘海屏适配   
-2.1.5 详解网易云音乐屏幕适配
+2.1.1 [自定义像素适配](https://blog.csdn.net/u014158743/article/details/114121951)   
+2.1.2 [手写百分比布局适配](https://blog.csdn.net/u014158743/article/details/114121951)   
+2.1.3 [修改系统density, densityDpi适配](https://blog.csdn.net/u014158743/article/details/114121951)   
+2.1.4 [刘海屏适配](https://blog.csdn.net/u014158743/article/details/114121951)   
+2.1.5 [详解网易云音乐屏幕适配](https://blog.csdn.net/u014158743/article/details/114121951)
 ## 第三章 项目实战
 ### 第一节 Material Design
 3.1.1 Material Design交互设计   
