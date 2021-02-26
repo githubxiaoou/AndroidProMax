@@ -27,23 +27,23 @@ Android Pro Max you will find out!
 2.1.2 [手写百分比布局适配](https://blog.csdn.net/u014158743/article/details/114121951)   
 2.1.3 [修改系统density, densityDpi适配](https://blog.csdn.net/u014158743/article/details/114121951)   
 2.1.4 [刘海屏适配](https://blog.csdn.net/u014158743/article/details/114121951)   
-2.1.5 [详解网易云音乐屏幕适配](https://blog.csdn.net/u014158743/article/details/114121951)
+2.1.5 [2021年关于适配最水水文](https://blog.csdn.net/u014158743/article/details/114121951)
 ## 第三章 项目实战
 ### 第一节 Material Design
 3.1.1 Material Design交互设计   
 3.1.2 自定义RecycleView   
 3.1.3 Coordinatorlayout原理应用nestedscrolling组合完成下拉特效   
 3.1.4 沉浸式设计，cardView源码分析和兼容原理   
-3.1.5 [一个带下拉刷新列表的日历](https://blog.csdn.net/u014158743/article/details/81288145)   
+3.1.5 [日历+刷新列表Demo，赞！](https://blog.csdn.net/u014158743/article/details/81288145)   
 ### 第二节 自定义View
-3.2.1 [自定义控件](https://blog.csdn.net/u014158743/article/details/113751778)   
+3.2.1 [一份来自异次元的Android自定义View教程](https://blog.csdn.net/u014158743/article/details/113751778)   
 3.2.2 手写RecyclerView(手写tem回收池)   
 3.2.3 SVG矢量图形打造不规则的自定义控件   
 3.2.4 阿里VLayout原理解密与PathMeasure高级使用   
 3.2.5 网易云音乐的音乐播放界面如何实现(打碟界面)   
 3.2.6 PathMeasure高阶动画特效(水波纹效果)   
-3.2.7 [仿芝麻信用示例——里程表](https://blog.csdn.net/u014158743/article/details/81508431)  
-3.2.8 [自定义thumb上带文本显示的拖动条](https://blog.csdn.net/u014158743/article/details/81479107?spm=1001.2014.3001.5502)   
+3.2.7 [仿芝麻信用示例还是里程表示例？](https://blog.csdn.net/u014158743/article/details/81508431)  
+3.2.8 [带文本显示的Seekbar示例](https://blog.csdn.net/u014158743/article/details/81479107?spm=1001.2014.3001.5502)  
 # @[NDK篇](https://blog.csdn.net/u014158743/article/details/113842655)（整理中）
 ## 第一章C/C++基础篇
 ### 第一节 基础知识
