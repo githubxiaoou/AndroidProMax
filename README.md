@@ -31,7 +31,7 @@ Android Pro Max you will find out!
 ## 第三章 项目实战
 ### 第一节 Material Design
 3.1.1 [强烈推荐！！！Material Design交互设计之常见用法介绍](https://blog.csdn.net/u014158743/article/details/114258987)   
-3.1.2 自定义RecycleView   
+3.1.2 [实现带悬浮条的RecycleView，可能没你想象的那么复杂！](https://blog.csdn.net/u014158743/article/details/114278011)     
 3.1.3 Coordinatorlayout原理应用nestedscrolling组合完成下拉特效   
 3.1.4 沉浸式设计，cardView源码分析和兼容原理   
 3.1.5 [日历+刷新列表Demo，赞！](https://blog.csdn.net/u014158743/article/details/81288145)   
