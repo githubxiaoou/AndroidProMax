@@ -38,7 +38,7 @@ Android Pro Max you will find out!
 3.1.1 [强烈推荐！！！Material Design交互设计之常见用法介绍](https://blog.csdn.net/u014158743/article/details/114258987)   
 3.1.2 [实现带悬浮条的RecycleView，可能没你想象的那么复杂！](https://blog.csdn.net/u014158743/article/details/114278011)     
 3.1.3 [Coordinatorlayout嵌套滑动，自定义Behavior，听我来讲讲？](https://blog.csdn.net/u014158743/article/details/114287779)     
-3.1.4 沉浸式设计，cardView源码分析和兼容原理   
+3.1.4 [速来围观！这个人分享了一个沉浸式设计的案例~](https://blog.csdn.net/u014158743/article/details/114281683)      
 3.1.5 [日历+刷新列表Demo，赞！](https://blog.csdn.net/u014158743/article/details/81288145)   
 ### 第二节 自定义View
 3.2.1 [一份来自异次元的Android自定义View教程](https://blog.csdn.net/u014158743/article/details/113751778)   
