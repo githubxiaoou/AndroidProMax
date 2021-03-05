@@ -42,7 +42,7 @@ Android Pro Max you will find out!
 3.1.5 [日历+刷新列表Demo，赞！](https://blog.csdn.net/u014158743/article/details/81288145)   
 ### 第二节 自定义View
 3.2.1 [一份来自异次元的Android自定义View教程](https://blog.csdn.net/u014158743/article/details/113751778)   
-3.2.2 手写RecyclerView(手写tem回收池)   
+3.2.2 [分享一个手写RecycleView的例子](https://blog.csdn.net/u014158743/article/details/114364935)    
 3.2.3 SVG矢量图形打造不规则的自定义控件   
 3.2.4 阿里VLayout原理解密与PathMeasure高级使用   
 3.2.5 网易云音乐的音乐播放界面如何实现(打碟界面)   
