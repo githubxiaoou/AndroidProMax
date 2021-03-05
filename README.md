@@ -42,13 +42,11 @@ Android Pro Max you will find out!
 3.1.5 [日历+刷新列表Demo，赞！](https://blog.csdn.net/u014158743/article/details/81288145)   
 ### 第二节 自定义View
 3.2.1 [一份来自异次元的Android自定义View教程](https://blog.csdn.net/u014158743/article/details/113751778)   
-3.2.2 [分享一个手写RecycleView的例子](https://blog.csdn.net/u014158743/article/details/114364935)    
-3.2.3 SVG矢量图形打造不规则的自定义控件   
-3.2.4 阿里VLayout原理解密与PathMeasure高级使用   
-3.2.5 网易云音乐的音乐播放界面如何实现(打碟界面)   
-3.2.6 PathMeasure高阶动画特效(水波纹效果)   
-3.2.7 [仿芝麻信用示例还是里程表示例？](https://blog.csdn.net/u014158743/article/details/81508431)  
-3.2.8 [带文本显示的Seekbar示例](https://blog.csdn.net/u014158743/article/details/81479107?spm=1001.2014.3001.5502)  
+3.2.2 [带你手写一个简单的RecycleView](https://blog.csdn.net/u014158743/article/details/114364935)   
+3.2.3 [什么？！！你从来没用SVG打造过不规则的自定义View？](https://blog.csdn.net/u014158743/article/details/114395558)   
+3.2.4 网易云音乐打碟界面      
+3.2.5 [仿芝麻信用示例还是里程表示例？](https://blog.csdn.net/u014158743/article/details/81508431)  
+3.2.8 [带文本显示的Seekbar示例](https://blog.csdn.net/u014158743/article/details/81479107?spm=1001.2014.3001.5502)   
 # @[NDK篇](https://blog.csdn.net/u014158743/article/details/113842655)（整理中）
 ## 第一章C/C++基础篇
 ### 第一节 基础知识
