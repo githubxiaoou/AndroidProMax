@@ -44,7 +44,7 @@ Android Pro Max you will find out!
 3.2.1 [一份来自异次元的Android自定义View教程](https://blog.csdn.net/u014158743/article/details/113751778)   
 3.2.2 [带你手写一个简单的RecycleView](https://blog.csdn.net/u014158743/article/details/114364935)   
 3.2.3 [什么？！！你从来没用SVG打造过不规则的自定义View？](https://blog.csdn.net/u014158743/article/details/114395558)   
-3.2.4 网易云音乐打碟界面      
+3.2.4 [网易云音乐打碟界面](https://blog.csdn.net/u014158743/article/details/114406968)          
 3.2.5 [仿芝麻信用示例还是里程表示例？](https://blog.csdn.net/u014158743/article/details/81508431)  
 3.2.8 [带文本显示的Seekbar示例](https://blog.csdn.net/u014158743/article/details/81479107?spm=1001.2014.3001.5502)   
 # @[NDK篇](https://blog.csdn.net/u014158743/article/details/113842655)（整理中）
