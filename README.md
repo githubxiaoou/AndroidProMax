@@ -25,7 +25,7 @@ Android Pro Max you will find out!
 1.3.1 [事件分发机制原理](https://blog.csdn.net/u014158743/article/details/113868668)   
 1.3.2 [事件分发机制详解](https://blog.csdn.net/u014158743/article/details/113868668)
 ### 第四节 属性动画
-1.4.1 [Android仿小红书启动页（老版）平行动画](https://blog.csdn.net/u014158743/article/details/113887260)   
+1.4.1 [Android仿小红书启动页（老版）平行动画](https://blog.csdn.net/u014158743/article/details/113887260)    
 ## 第二章 屏幕适配
 ### 第一节 屏幕适配解决方案
 2.1.1 [自定义像素适配](https://blog.csdn.net/u014158743/article/details/114121951)   
@@ -35,16 +35,16 @@ Android Pro Max you will find out!
 2.1.5 [2021年关于适配最水水文](https://blog.csdn.net/u014158743/article/details/114121951)
 ## 第三章 项目实战
 ### 第一节 Material Design
-3.1.1 [强烈推荐！！！Material Design交互设计之常见用法介绍](https://blog.csdn.net/u014158743/article/details/114258987)   
-3.1.2 [实现带悬浮条的RecycleView，可能没你想象的那么复杂！](https://blog.csdn.net/u014158743/article/details/114278011)     
-3.1.3 [Coordinatorlayout嵌套滑动，自定义Behavior，听我来讲讲？](https://blog.csdn.net/u014158743/article/details/114287779)     
-3.1.4 [速来围观！这个人分享了一个沉浸式设计的案例~](https://blog.csdn.net/u014158743/article/details/114281683)      
+3.1.1 [强烈推荐！！！Material Design交互设计之常见用法介绍](https://blog.csdn.net/u014158743/article/details/114258987)（推荐）   
+3.1.2 [实现带悬浮条的RecycleView，可能没你想象的那么复杂！](https://blog.csdn.net/u014158743/article/details/114278011)   
+3.1.3 [Coordinatorlayout嵌套滑动，自定义Behavior，听我来讲讲？](https://blog.csdn.net/u014158743/article/details/114287779)（推荐）   
+3.1.4 [速来围观！这个人分享了一个沉浸式设计的案例~](https://blog.csdn.net/u014158743/article/details/114281683)   
 3.1.5 [日历+刷新列表Demo，赞！](https://blog.csdn.net/u014158743/article/details/81288145)   
 ### 第二节 自定义View
 3.2.1 [一份来自异次元的Android自定义View教程](https://blog.csdn.net/u014158743/article/details/113751778)   
 3.2.2 [带你手写一个简单的RecycleView](https://blog.csdn.net/u014158743/article/details/114364935)   
-3.2.3 [什么？！！你从来没用SVG打造过不规则的自定义View？](https://blog.csdn.net/u014158743/article/details/114395558)   
-3.2.4 [网易云音乐打碟界面](https://blog.csdn.net/u014158743/article/details/114406968)          
+3.2.3 [什么？！！你从来没用SVG打造过不规则的自定义View？](https://blog.csdn.net/u014158743/article/details/114395558)（推荐）   
+3.2.4 [网易云音乐打碟界面](https://blog.csdn.net/u014158743/article/details/114406968)      
 3.2.5 [仿芝麻信用示例还是里程表示例？](https://blog.csdn.net/u014158743/article/details/81508431)  
 3.2.8 [带文本显示的Seekbar示例](https://blog.csdn.net/u014158743/article/details/81479107?spm=1001.2014.3001.5502)   
 # @[NDK篇](https://blog.csdn.net/u014158743/article/details/113842655)（整理中）
