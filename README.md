@@ -4,7 +4,7 @@ Android Pro Max you will find out!
 
 1     |  2  |  3 | 4 | 5 | 6
 -------- | ----- | ----- | -----  | -----  | -----
-[java](https://blog.csdn.net/u014158743/article/details/114107587)  | [Android](https://github.com/githubxiaoou/AndroidProMax) | kotlin | [Android资源](https://blog.csdn.net/u014158743/article/details/113885422)  | [QA](https://blog.csdn.net/u014158743/category_10848236.html) | [程序人生](https://blog.csdn.net/u014158743/category_10848240.html)
+[java](https://blog.csdn.net/u014158743/article/details/114107587)  | [Android](https://github.com/githubxiaoou/AndroidProMax) | [kotlin](https://github.com/githubxiaoou/AndroidProMax/blob/master/kotlin.md) | [Android资源](https://blog.csdn.net/u014158743/article/details/113885422)  | [QA](https://blog.csdn.net/u014158743/category_10848236.html) | [程序人生](https://blog.csdn.net/u014158743/category_10848240.html)
 
 ---
 
