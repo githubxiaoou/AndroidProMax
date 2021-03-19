@@ -12,7 +12,8 @@ Android Pro Max you will find out!
 ## 第一章 UI核心
 - UI绘制
 - Paint/Cavans
-- 事件分发、属性动画    
+- 事件分发
+- 属性动画    
 ## 第二章 屏幕适配
 - 屏幕适配方案
 ## 第三章 项目实战 
