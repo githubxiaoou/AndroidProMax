@@ -1,6 +1,6 @@
 - [《第一行代码》（第3版）Kotlin讲堂](https://blog.csdn.net/u014158743/article/details/115521908)
 - [我的Kotlin专栏](https://blog.csdn.net/u014158743/category_10862270.html)
-- [菜鸟教程](https://www.runoob.com/kotlin/kotlin-tutorial.html)   内附官网，官网学习插件，官网学习文档等
+- [菜鸟教程](https://www.runoob.com/kotlin/kotlin-tutorial.html) 
 - [扔物线的kotlin教程视频](https://space.bilibili.com/27559447/channel/detail?cid=122973)
 - [官方网站](https://kotlinlang.org/)
 - [官方示例](https://try.kotlinlang.org/)
