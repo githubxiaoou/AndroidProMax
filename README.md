@@ -53,12 +53,6 @@ Android Pro Max you will find out!
 - IOC框架
 - 网易云音乐框架
 - Jetpack
-## 第四章 动态切肤
-- 换肤基本功
-- QQ换肤
-- 可扩展换肤库
-## 第五章 AMS应用与原理
-## 第六章 PackageManagerService
 # @[性能优化篇](https://blog.csdn.net/u014158743/article/details/113843013)（整理中）
 ## 第一章 多维度分析性能优化
 - 启动优化
